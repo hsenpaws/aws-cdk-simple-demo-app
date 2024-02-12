@@ -1,0 +1,2 @@
+export CDK_DEFAULT_ACCOUNT='533267183732'
+export CDK_DEFAULT_REGION='ap-southeast-2'
